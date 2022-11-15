@@ -29,7 +29,7 @@ Article 2
 Brood Size in Canada Geese: A Manipulation Experiment
 https://www.jstor.org/stable/4747?searchText=Canada+geese&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DCanada%2Bgeese&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A16a75ddb812b512d3122452bebb591ce#metadata_info_tab_contents 
 - Hypothesis: the brood size will affect both goslings and adults, the larger the brood the smaller the chance of the young surviving up to a reproductive age
-- Control: 
+- Control: location
 - Independent Variables: brood size
 - Dependent Variables: survival abilities of goslings, parental abilities of adults
 Critique
@@ -50,7 +50,7 @@ Critique
 Our Hypothesis:
 Canada geese are prone to territoriality, even in more populated urban areas
 
-article 4
+Article 4
 
 The Vee Formation of Canada Geese 
 https://www.jstor.org/stable/4084469#metadata_info_tab_contents 
