@@ -7,7 +7,10 @@ Ahmed Ahmed ahmed.ahmed003@umb.edu
 Jeffrey Tremblay jeffrey.tremblay001@umb.edu
 Greg Wolff gregory.wolff001@umb.edu
 Shailey Concheri shailey.concheri001@umb.edu
+
+
 Research Articles
+
 Late summer movements by giant Canada geese in relation to a September hunting season
 https://www.jstor.org/stable/24868843#metadata_info_tab_contents 
 - Hypothesis: Major movements to new areas by molted Canada geese are related to the start of hunting season in September 
