@@ -19,10 +19,12 @@ https://www.jstor.org/stable/24868843#metadata_info_tab_contents
 - Control: Geese studied- VHF & satellite transmitters to track adult female geese with broods
 - Independent Variables: Time of year, specifically Sept hunting season
 - Dependent Variables: post molt Canada goose movements 
+
 Critique
 	I think that this experiment was done pretty well in terms of collecting tangible data from the movements geese made in July through to September. One thing that may decrease external validity is the fact that the experiments took place in locations with heavy hunting patterns, which is not applicable everywhere. A potential confound could be that the geese are just moving north because of the weather. From July until September, 46% of the marked geese made major movements. 43% moved within the first 10 days of hunting season in September. This data makes it hard to distinguish if the geese are making major movements due to hunting season or the migratory patterns typically made by birds when it starts to get cold.
+
 Our Hypothesis:
-Canada geese are prone to making major movements after they molt from established migratory tradition
+	Canada geese are prone to making major movements after they molt from established migratory tradition
 
 Article 2
 
@@ -32,8 +34,10 @@ https://www.jstor.org/stable/4747?searchText=Canada+geese&searchUri=%2Faction%2F
 - Control: location
 - Independent Variables: brood size
 - Dependent Variables: survival abilities of goslings, parental abilities of adults
+
 Critique
 	I believe that the internal validity of this study is fairly sound, as they were able to manipulate the sizes of the geese families. This manipulation showed that the size had little to no affect on the abilities of goslings to survive and the parents abilities to parent the young. This could probably be extended to other real life situations in which geese have relatively large or small broods, giving this study high external validity
+
 Our Hypothesis:
 	The goslings are able to survive regardless of the brood size because Canada geese do not rely on their parents to feed them like other species of birds do
 	
@@ -60,8 +64,10 @@ https://www.jstor.org/stable/4084469#metadata_info_tab_contents
 - Control: camera position & angle
 - Independent Variables: each flock of geese
 - Dependent Variables: the aerodynamic advantage of each flock’s formation
+
 Critique
 	I think this research article does a good job of explaining what they’re studying and why. Although they end up refuting their hypothesis based on claims from other scientists, the test has a good chance of having external validity. I also believe that their internal validity is sound as their equations and methods for measuring distance between the birds in each flock helped to create data that measured the distances between each bird in each flock.
+
 Our Hypothesis:
 	Migratory patterns in Canada geese are seemingly random and used to strengthen coordination and communication among a flock.
 	
@@ -73,7 +79,9 @@ https://www.jstor.org/stable/4533358?searchText=Canada+geese&searchUri=%2Faction
 - Control: location, Crab Orchard National Wildlife, geese studied- color marked to distinguish 
 - Independent Variables: time of year- specifically measured during late September to mid march
 - Dependent Variables: patterns and behavior linked to dominance 
+
 Critique
 	I believe that while this study can show the fighting patterns, and reasoning behind them, of the geese, one major potential confound can be the time of year. They studied this over two years, both from late sept to mid march. As far as I can tell, no research was done in the summer months to compare behaviors from then and the winter months. If they were specifically looking for behaviors in the winter, that may lower internal validity. However, if their goal was just to contribute to general knowledge of Canada geese behavior, their studies may have a higher internal and external validity
+
 Our Hypothesis:
 	Patterns and behaviors of Canada goose families stay relatively consistent throughout the year, excluding migratory movements 
