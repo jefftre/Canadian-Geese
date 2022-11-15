@@ -45,7 +45,8 @@ https://www.tandfonline.com/doi/full/10.1080/02723638.2021.1907972
 - Control: location- Walthamstow Wetlands 
 - Independent Variables: interviews
 - Dependent Variables: interviewee’s answers 
- Critique
+
+Critique
 	I think one thing that lacks from this article is direct observation or experimentation with the geese themselves. An interviewer spoke to various participants from field practitioners to local residents and bird enthusiasts. They explain how a lot of the interviewees view the territorial nature of geese, and even points out a specific interview in which a goose started to portray its territoriality. I believe that this study has low internal validity because it includes possible uncontrolled and extraneous variables.
 
 Our Hypothesis:
