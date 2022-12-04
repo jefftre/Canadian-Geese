@@ -21,11 +21,11 @@ Late summer movements by giant Canada geese in relation to a September hunting s
 
 _Critique_
 
-	I think that this experiment was done pretty well in terms of collecting tangible data from the movements geese made in July through to September. One thing that may decrease external validity is the fact that the experiments took place in locations with heavy hunting patterns, which is not applicable everywhere. A potential confound could be that the geese are just moving north because of the weather. From July until September, 46% of the marked geese made major movements. 43% moved within the first 10 days of hunting season in September. This data makes it hard to distinguish if the geese are making major movements due to hunting season or the migratory patterns typically made by birds when it starts to get cold.
+I think that this experiment was done pretty well in terms of collecting tangible data from the movements geese made in July through to September. One thing that may decrease external validity is the fact that the experiments took place in locations with heavy hunting patterns, which is not applicable everywhere. A potential confound could be that the geese are just moving north because of the weather. From July until September, 46% of the marked geese made major movements. 43% moved within the first 10 days of hunting season in September. This data makes it hard to distinguish if the geese are making major movements due to hunting season or the migratory patterns typically made by birds when it starts to get cold.
 
 _Our Hypothesis_
 
-	Canada geese are prone to making major movements after they molt from established migratory tradition
+Canada geese are prone to making major movements after they molt from established migratory tradition
 	
 Dieter, Charles D., et al. “Late Summer Movements by Giant Canada Geese in Relation to a September Hunting Season.” Human-Wildlife Interactions, vol. 4, no. 2, 2010, pp. 232–46. JSTOR, http://www.jstor.org/stable/24868843.
 
@@ -39,11 +39,11 @@ Brood Size in Canada Geese: A Manipulation Experiment
 
 _Critique_
 
-	I believe that the internal validity of this study is fairly sound, as they were able to manipulate the sizes of the geese families. This manipulation showed that the size had little to no affect on the abilities of goslings to survive and the parents abilities to parent the young. This could probably be extended to other real life situations in which geese have relatively large or small broods, giving this study high external validity
+I believe that the internal validity of this study is fairly sound, as they were able to manipulate the sizes of the geese families. This manipulation showed that the size had little to no affect on the abilities of goslings to survive and the parents abilities to parent the young. This could probably be extended to other real life situations in which geese have relatively large or small broods, giving this study high external validity
 
 _Our Hypothesis_
 
-	The goslings are able to survive regardless of the brood size because Canada geese do not rely on their parents to feed them like other species of birds do
+The goslings are able to survive regardless of the brood size because Canada geese do not rely on their parents to feed them like other species of birds do
 	
 Lessells, C. M. “Brood Size in Canada Geese: A Manipulation Experiment.” Journal of Animal Ecology, vol. 55, no. 2, 1986, pp. 669–89. JSTOR, https://doi.org/10.2307/4747.
 
@@ -57,11 +57,11 @@ Lessells, C. M. “Brood Size in Canada Geese: A Manipulation Experiment.” Jou
 
 _Critique_
 
-	I think one thing that lacks from this article is direct observation or experimentation with the geese themselves. An interviewer spoke to various participants from field practitioners to local residents and bird enthusiasts. They explain how a lot of the interviewees view the territorial nature of geese, and even points out a specific interview in which a goose started to portray its territoriality. I believe that this study has low internal validity because it includes possible uncontrolled and extraneous variables.
+I think one thing that lacks from this article is direct observation or experimentation with the geese themselves. An interviewer spoke to various participants from field practitioners to local residents and bird enthusiasts. They explain how a lot of the interviewees view the territorial nature of geese, and even points out a specific interview in which a goose started to portray its territoriality. I believe that this study has low internal validity because it includes possible uncontrolled and extraneous variables.
 
 _Our Hypothesis_
 
-	Canada geese are prone to territoriality, even in more populated urban areas
+Canada geese are prone to territoriality, even in more populated urban areas
 
 Clancy, Cara. "More-than-human territoriality: The Contested Spaces and Beastly Places of Canada Geese in Europe’s Largest Urban Wetland." Urban Geography. https://doi.org/10.1080/02723638.2021.1907972
 
@@ -75,11 +75,11 @@ The Vee Formation of Canada Geese
 
 _Critique_
 
-	I think this research article does a good job of explaining what they’re studying and why. Although they end up refuting their hypothesis based on claims from other scientists, the test has a good chance of having external validity. I also believe that their internal validity is sound as their equations and methods for measuring distance between the birds in each flock helped to create data that measured the distances between each bird in each flock.
+I think this research article does a good job of explaining what they’re studying and why. Although they end up refuting their hypothesis based on claims from other scientists, the test has a good chance of having external validity. I also believe that their internal validity is sound as their equations and methods for measuring distance between the birds in each flock helped to create data that measured the distances between each bird in each flock.
 
 _Our Hypothesis_
 
-	Migratory patterns in Canada geese are seemingly random and used to strengthen coordination and communication among a flock.
+Migratory patterns in Canada geese are seemingly random and used to strengthen coordination and communication among a flock.
 	
 Lisa Lofland Gould, and Frank Heppner. “The Vee Formation of Canada Geese.” The Auk, vol. 91, no. 3, 1974, pp. 494–506. JSTOR, https://doi.org/10.2307/4084469.
 
@@ -93,11 +93,11 @@ Lisa Lofland Gould, and Frank Heppner. “The Vee Formation of Canada Geese.” 
 
 _Critique_
 
-	I believe that while this study can show the fighting patterns, and reasoning behind them, of the geese, one major potential confound can be the time of year. They studied this over two years, both from late sept to mid march. As far as I can tell, no research was done in the summer months to compare behaviors from then and the winter months. If they were specifically looking for behaviors in the winter, that may lower internal validity. However, if their goal was just to contribute to general knowledge of Canada geese behavior, their studies may have a higher internal and external validity
+I believe that while this study can show the fighting patterns, and reasoning behind them, of the geese, one major potential confound can be the time of year. They studied this over two years, both from late sept to mid march. As far as I can tell, no research was done in the summer months to compare behaviors from then and the winter months. If they were specifically looking for behaviors in the winter, that may lower internal validity. However, if their goal was just to contribute to general knowledge of Canada geese behavior, their studies may have a higher internal and external validity
 
 _Our Hypothesis_
 
-	Patterns and behaviors of Canada goose families stay relatively consistent throughout the year, excluding migratory movements 
+Patterns and behaviors of Canada goose families stay relatively consistent throughout the year, excluding migratory movements 
 	
 Raveling, Dennis G. “Dominance Relationships and Agonistic Behavior of Canada Geese in Winter.” Behaviour, vol. 37, no. 3/4, 1970, pp. 291–319. JSTOR, http://www.jstor.org/stable/4533358.
 	
