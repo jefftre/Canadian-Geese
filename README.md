@@ -109,4 +109,11 @@ The hypothesis I choose for the research design is, “Canada geese are prone to
 
 When thinking about research and the ethics that come along with all it, there can be many ethical issues you can run into before beginning research. A typical evaluation used to conduct a successful ethics check is the risks/benefits ratio. This evaluation is the step in your research to determine if the project is safe to continue or not. To complete the ratio, you must understand the benefits and risks for the people or animals involved in the project, as well as what costs may come after the project is finished. When we conducted our research while taking pictures and videos of the Canadian geese, we determined that this would lead to minimal risk for both the geese and us, the researchers. Because of this, we decided it was okay to proceed with our research and pictures. As for our research design, it seemed to carry a higher risk for both parties involved. To track their migratory patterns, geese were tagged with satellite transmitters. This could lead to potential harm to both the geese and the researcher tagging them. The article explains the methods for capturing and tagging the birds, easing concerns of unethical behavior going on by explaining the process and lab involved in the process. When animals are involved, there are always going to be debated on whether they are considered ethical at all, but assuming the study followed laws and regulations when working with these geese the study can be deemed ethical.
 
+**Other sources used:**
+
+Smith, Liam. “Things You Need to Know about Canada Geese!” YouTube, A Shot of Wildlife, 7 Feb. 2022, https://www.youtube.com/watch?v=tfTdaUlKjY0. 
+
+Makatti, “Circus Animals Admission Fun Song”, CapCut Pro.
+
+Tomato Bee, “The Goose Blues,” 2022, https://open.spotify.com/track/1GMfMbXHntZ7pykt4VKgbj?si=ed0184ba09b54486. 
 
